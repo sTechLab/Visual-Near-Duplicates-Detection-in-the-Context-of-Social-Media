@@ -1,5 +1,6 @@
 # Visual Near-Duplicates Detection in the Context of Social Media
 
+
 A repository for the dataset of the paper:
 **``Dataset and Case Studies for Visual Near-Duplicates Detection in the Context of Social Media''**
 , by Hana Matatov, Mor Naaman, and Ofra Amir.
@@ -9,6 +10,7 @@ A repository for the dataset of the paper:
 
 ### Accessing the images:
 The images in the dataset can be viewed and downloaded using [Google Cloud Storage](https://console.cloud.google.com/storage/browser/adina-images).
+
 The easiest way to access each image (or all images) is by using the image's public URL, which is:
 
 https://storage.googleapis.com/adina-images/IMAGE-ID.IMAGE-TYPE
