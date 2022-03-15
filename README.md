@@ -21,4 +21,4 @@ https://storage.googleapis.com/adina-images/RE000006654630.jpg
 
 
 ### Accessing images metadata:
-The metadata of the images in the dataset can be viewed and downloaded (CSV or JSON files) using [Figshare dataset publication](TODO) with digital object identifier (DOI) **TODO**.
+The metadata of the images in the dataset can be viewed and downloaded (CSV or JSON files) using [Figshare dataset publication](https://figshare.com/account/home#/projects/133128) with digital object identifier (DOI) **TBD**.
