@@ -5,7 +5,7 @@ A repository for the dataset of the paper:
 **``Dataset and Case Studies for Visual Near-Duplicates Detection in the Context of Social Media''**
 , by Hana Matatov, Mor Naaman, and Ofra Amir.
 
-**Link to the associated paper on [arXiv](TODO).**
+**Link to the associated paper on [arXiv](https://arxiv.org/abs/2203.07167).**
 
 
 ### Accessing the images:
