@@ -21,4 +21,4 @@ https://storage.googleapis.com/adina-images/RE000006654630.jpg
 
 
 ### Accessing images metadata:
-The metadata of the images in the dataset can be viewed and downloaded (CSV or JSON files) using [Figshare dataset publication](https://figshare.com/account/home#/projects/133128) with digital object identifier (DOI) **TBD**.
+The metadata of the images in the dataset can be viewed and downloaded (CSV or JSON files) using [Figshare dataset publication](https://figshare.com/articles/dataset/Visual_Near-Duplicates_Detection_in_the_Context_of_Social_Media_Dataset_/19367933) with digital object identifier (DOI) **10.6084/m9.figshare.19367933**.
